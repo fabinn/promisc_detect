@@ -1,6 +1,6 @@
 # promisc_detect
 
-Interfaces set under promiscuous mode could sing possible malicius intentions inside a network.
+Interfaces set under promiscuous mode could sign possible malicious behavior inside a network.
 
 Use this script to scan a host or a set of hosts and try to suggest possible intefaces with promiscuous mode enabled.
 
@@ -9,4 +9,4 @@ Requirements:
 - Scapy Python module
 
 == HOW TO RUN ==
-# python 
+# python promisc_detect.py
